@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Stretford public realm"
 date: 2015-05-23
 categories: 
