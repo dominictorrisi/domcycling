@@ -2,12 +2,6 @@
 layout: post
 title: "Stretford public realm"
 date: 2015-05-23 00:00:00 -0000
-categories: 
-  - "comments"
-  - "cycle-infrastructure"
-  - "proposals"
-  - "stretford"
-  - "trafford"
 tags: 
   - "cycling"
   - "infrastructure"
